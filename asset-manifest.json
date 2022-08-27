@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/danz/static/css/main.dafee91f.css",
+    "main.js": "/danz/static/js/main.22014a73.js",
+    "index.html": "/danz/index.html",
+    "main.dafee91f.css.map": "/danz/static/css/main.dafee91f.css.map",
+    "main.22014a73.js.map": "/danz/static/js/main.22014a73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dafee91f.css",
+    "static/js/main.22014a73.js"
+  ]
+}
